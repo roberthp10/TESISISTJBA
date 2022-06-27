@@ -1,0 +1,30 @@
+
+
+<resources>
+
+    <string name="app_name">Ventas ISTJBA</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="empty_text">Seleccione la canción de abajo para reproducir</string>
+    <string name="standard">Estándar</string>
+    <string name="title_changelog">Cambiar registro</string>
+    <string name="changelog_close">Cerrar</string>
+    <string name="action_hide">Ocultar panel</string>
+    <string name="action_show">Mostrar panel</string>
+    <string name="action_anchor_enable">Habilitar punto de anclaje</string>
+    <string name="action_anchor_disable">Deshabilitar punto de anclaje</string>
+    <string name="idle">Inactivo</string>
+    <string name="crash_toast_text">................</string>
+    <string name="offer_banner">"Compre $2000 para obtener un descuento de $100  y compre $3000 para obtener un descuento de $200 "</string>
+    <string name="checkout">Verificar</string>
+    <string name="similar_product">También te puede interesar</string>
+    <string name="slogan">Asignación</string>
+    <string name="email_developer_">Correo electronico:</string>
+    <string name="personal_website_">Sitio web Institucional :</string>
+    <string name="site_hitesh">www.istjba.edu.ec</string>
+    <string name="contact_number">Contacto</string>
+    <string name="mob_num">0968899876</string>
+    <string name="lab_locations">Localidad</string>
+    <string name="pune">Daule</string>
+    <string name="address_value">km48 via a Santa Lucia</string>
+
+</resources>

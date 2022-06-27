@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<changelog>
+
+    <release
+        date="04/26/2022"
+        summary="Ventas ISTJBA"
+        version="1.2"
+        versioncode="3">
+        <change>
+            Como parte del lanzamiento inicial, la aplicación debe tener las siguientes características:
+        </change>
+        <change>
+            1. El usuario debería poder ver la lista de productos agrupados por categorías.
+        </change>
+        <change>
+            2. El usuario debería poder ver los detalles seleccionando un producto de la lista.
+        </change>
+        <change>
+            3. Los detalles del producto incluyen una imagen, nombre y precio del producto.
+        </change>
+        <change>
+            4. La página de detalles del producto debe tener un botón para agregar el producto al carrito.
+        </change>
+        <change>
+            5. El carrito muestra una lista de productos junto con su precio.
+        </change>
+        <change>
+            6. El carrito también muestra el precio total de todos los productos agregados.
+        </change>
+        <change>
+            7. El usuario debe poder ver el carrito en cualquier momento.
+        </change>
+        <change>
+            8. El usuario también debería poder navegar a los detalles del producto desde el carrito.
+        </change>
+        <change>
+            9. El usuario debe poder eliminar cualquier producto del carrito.
+        </change>
+        <change>
+            10. El carrito debe persistir en la aplicación, es decir, si el usuario sale de la aplicación, el carrito debe ser
+            disponible al reiniciar la aplicación.
+        </change>
+        <change>
+            11. Todos los datos deben almacenarse localmente dentro de la aplicación y no deben depender de ningún
+            servicios externos para el mismo, es decir implementar un web servise interno en el cual pueda agregar la infoemacion
+            de los productos que la comunidad del ISTJBA tenga disponible.
+        </change>
+    </release>
+    <release
+        date="1/25/2022"
+        version="1.1"
+        versioncode="2">
+        <change>
+            Pequeño cambio de diseño
+        </change>
+        <change>
+            Ajustes menores
+        </change>
+    </release>
+
+</changelog>
